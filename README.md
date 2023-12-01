@@ -13,7 +13,7 @@
 ### Склонируй себе весь репозиторий
 
 ```
-git clone https://github.com/Codynomicon/python-easy-m1-l9.git
+git clone https://github.com/Codynodycom/python-easy-m1-l9.git
 ```
 
 Вся практика в содержании.
